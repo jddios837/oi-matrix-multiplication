@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OI.MatrixMultiplication.API", "OI.MatrixMultiplication.API\OI.MatrixMultiplication.API.csproj", "{2B2618B3-83FB-41E5-88D9-B72DC4B4CF47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OI.MatrixMultiplication.Core", "OI.MatrixMultiplication.Core\OI.MatrixMultiplication.Core.csproj", "{02530692-3115-41EF-ADBC-1795F074A1E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{21C1429B-2578-4428-9A37-1B83B4DBFB09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,9 @@ Global
 		{2B2618B3-83FB-41E5-88D9-B72DC4B4CF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B2618B3-83FB-41E5-88D9-B72DC4B4CF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B2618B3-83FB-41E5-88D9-B72DC4B4CF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02530692-3115-41EF-ADBC-1795F074A1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02530692-3115-41EF-ADBC-1795F074A1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02530692-3115-41EF-ADBC-1795F074A1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02530692-3115-41EF-ADBC-1795F074A1E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
